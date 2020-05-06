@@ -1,0 +1,46 @@
+First Name: John
+Middle Name: x
+Last Name: Doe
+Address 1
+Number: 123
+Direction: NW
+Street: Street
+Street Type: Dr
+Apt#: x
+City: Anycity
+State: CA
+Zip: 90210
+Address 2
+Number: x
+Direction: x
+Street: x
+Street Type: x
+Apt#: x
+City: x
+State: x
+Zip: x
+Telephone Number: 555-555-5555
+
+First Name: John
+Middle Name: Wayne
+Last Name: Smith
+Address 1
+Number: 345
+Direction: x
+Street: Elm
+Street Type: St
+Apt#: 102
+City: Anycity
+State: CA
+Zip: 90210
+Address 2
+Number: x
+Direction: x
+Street: x
+Street Type: x
+Apt#: x
+City: x
+State: x
+Zip: x
+Telephone Number: 555-555-5555
+

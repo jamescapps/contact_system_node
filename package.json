@@ -1,0 +1,16 @@
+{
+  "name": "contact_app",
+  "version": "1.0.0",
+  "description": "Programming task for Heartland Science and Technology Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Capps",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "fs": "0.0.1-security",
+    "mz": "^2.7.0"
+  }
+}
